@@ -1,0 +1,84 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "name": "Introduction to Programming",
+      "img": "https://i.ytimg.com/vi/tVftenlYw44/hqdefault.jpg",
+      "instructor": "Dr. Smith",
+      "description": "Learn the basics of programming using popular languages like Python and Java.",
+      "enrollmentStatus": "open"
+    },
+    {
+      "id": 2,
+      "name": "Web Development Fundamentals",
+      "img": "https://res.cloudinary.com/boardinfinity/image/upload/t_blog_img/bi-websites/blog/11/62.png",
+      "instructor": "Prof. Johnson",
+      "description": "Explore the world of web development and build your first websites.",
+      "enrollmentStatus": "closed"
+    },
+    {
+      "id": 3,
+      "name": "Data Science Essentials",
+      "img": "https://www.certybox.com/wp-content/webpc-passthru.php?src=https://www.certybox.com/wp-content/uploads/2021/02/datascience-certybox-training-470x300.png&nocache=1",
+      "instructor": "Dr. Brown",
+      "description": "Dive into the field of data science, covering data analysis and machine learning.",
+      "enrollmentStatus": "open"
+    },
+    {
+      "id": 4,
+      "name": "Digital Marketing Strategies",
+      "img": "https://m.media-amazon.com/images/I/81NnXHIaXGL._AC_UF1000,1000_QL80_.jpg",
+      "instructor": "Ms. Davis",
+      "description": "Learn effective digital marketing strategies and tools for business success.",
+      "enrollmentStatus": "closed"
+    },
+    {
+      "id": 5,
+      "name": "Graphic Design Basics",
+      "img": "https://www.flottmanco.com/wp-content/uploads/2016/01/designprinciples.jpg",
+      "instructor": "Prof. White",
+      "description": "Discover the principles of graphic design and create visually appealing designs.",
+      "enrollmentStatus": "open"
+    },
+    {
+      "id": 6,
+      "name": "Software Engineering Principles",
+      "img": "https://www.interviewbit.com/blog/wp-content/uploads/2022/02/Software-Engineering-Principles-1024x573.png",
+      "instructor": "Dr. Miller",
+      "description": "Explore best practices in software engineering and development.",
+      "enrollmentStatus": "closed"
+    },
+    {
+      "id": 7,
+      "name": "Database Management Systems",
+      "img": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
+      "instructor": "Prof. Adams",
+      "description": "Study the fundamentals of database design and management.",
+      "enrollmentStatus": "open"
+    },
+    {
+      "id": 8,
+      "name": "Cybersecurity Fundamentals",
+      "img": "https://i.ytimg.com/vi/5MMoxyK1Y9o/maxresdefault.jpg",
+      "instructor": "Dr. Turner",
+      "description": "Learn the basics of cybersecurity and protect systems from potential threats.",
+      "enrollmentStatus": "closed"
+    },
+    {
+      "id": 9,
+      "name": "Mobile App Development",
+      "img": "https://externlabs.com/blogs/wp-content/uploads/2022/04/b2.jpg",
+      "instructor": "Ms. Wilson",
+      "description": "Build mobile applications for iOS and Android platforms.",
+      "enrollmentStatus": "open"
+    },
+    {
+      "id": 10,
+      "name": "Network Administration",
+      "img": "https://myaolcc.com/wp-content/uploads/2020/10/3-resons-career-network-administrator-1.jpg",
+      "instructor": "Prof. Martinez",
+      "description": "Understand the principles of network administration and maintenance.",
+      "enrollmentStatus": "closed"
+    }
+  ]
+}
